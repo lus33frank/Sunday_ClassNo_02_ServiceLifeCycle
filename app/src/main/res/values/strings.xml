@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">No:02_ServiceLifeCycle(服務的生命週期)</string>
+    <string name="xml_start_service">Start Service</string>
+    <string name="xml_stop_service">Stop Service</string>
+    <string name="xml_service_lifecycle_system">Service LifeCycle System</string>
+    <string name="bundle_01">Key</string>
+</resources>
